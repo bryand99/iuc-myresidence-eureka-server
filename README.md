@@ -1,0 +1,1 @@
+# iuc-myresidence-eureka-server
